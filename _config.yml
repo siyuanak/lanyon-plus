@@ -6,7 +6,7 @@ permalink: /blog/:year/:month/:day/:title/
 relative_permalinks: false
 
 # Setup
-title:               Simon Xing
+title:               Siyuan Xing(Simon)
 #tagline:             'foo's website
 description:         Simon's blog...
 url: https://siyuanak.github.io
@@ -41,15 +41,15 @@ author:
 
 # Owner/author information
 owner:
-  name:           Foo Boo
+  name:           Siyuan Xing
   avatar:         foo.png
-  #email:          
+  email:          sxing@siue.edu
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        abcd
-  facebook:       
-  github:         xyz123abc
+  #twitter:        abcd
+  #facebook:       
+  github:         siyuanak
   stackexchange:  
   linkedin:       https://www.linkedin.com/in/foo
   instagram:      
@@ -57,8 +57,8 @@ owner:
   tumblr:  
   google_plus:    https://plus.google.com/+foo
   # orcid and google scholar IDs are different than standard username.
-  orcid: xyz123abc
-  gscholar: xyz123abc
+  #orcid: xyz123abc
+  #gscholar: xyz123abc
 
 ## sidebar links:
 # For external links add external: true
