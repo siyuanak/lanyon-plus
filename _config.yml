@@ -6,9 +6,9 @@ permalink: /blog/:year/:month/:day/:title/
 relative_permalinks: false
 
 # Setup
-title:               foo
+title:               Simon Xing
 #tagline:             'foo's website
-description:         Foo's blog...
+description:         Simon's blog...
 url: https://siyuanak.github.io
 #baseurl: "/lanyon-plus"
 urlimg: https://siyuanak.github.io/images/
@@ -34,10 +34,10 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 
 # About/contact
 author:
-  name:              Foo Boo
-  url:               https://twitter.com/abcd
+  name:              Siyuan Xing
+  #url:               https://twitter.com/abcd
   avatar:         foo.png
-  #email:           
+  email:          sxing@siue.edu
 
 # Owner/author information
 owner:
